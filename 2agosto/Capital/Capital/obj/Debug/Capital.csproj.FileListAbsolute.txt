@@ -1,8 +1,0 @@
-K:\2agosto\Capital\Capital\bin\Debug\Capital.exe.config
-K:\2agosto\Capital\Capital\bin\Debug\Capital.exe
-K:\2agosto\Capital\Capital\bin\Debug\Capital.pdb
-K:\2agosto\Capital\Capital\obj\Debug\Capital.Form1.resources
-K:\2agosto\Capital\Capital\obj\Debug\Capital.Properties.Resources.resources
-K:\2agosto\Capital\Capital\obj\Debug\Capital.csproj.GenerateResource.Cache
-K:\2agosto\Capital\Capital\obj\Debug\Capital.exe
-K:\2agosto\Capital\Capital\obj\Debug\Capital.pdb

@@ -1,9 +1,0 @@
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojResolveAssemblyReference.cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Form1.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb

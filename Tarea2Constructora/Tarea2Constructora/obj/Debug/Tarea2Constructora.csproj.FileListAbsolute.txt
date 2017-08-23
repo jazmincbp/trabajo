@@ -1,8 +1,0 @@
-c:\users\user\documents\visual studio 2012\Projects\Tarea2Constructora\Tarea2Constructora\bin\Debug\Tarea2Constructora.exe.config
-c:\users\user\documents\visual studio 2012\Projects\Tarea2Constructora\Tarea2Constructora\bin\Debug\Tarea2Constructora.exe
-c:\users\user\documents\visual studio 2012\Projects\Tarea2Constructora\Tarea2Constructora\bin\Debug\Tarea2Constructora.pdb
-c:\users\user\documents\visual studio 2012\Projects\Tarea2Constructora\Tarea2Constructora\obj\Debug\Tarea2Constructora.exe
-c:\users\user\documents\visual studio 2012\Projects\Tarea2Constructora\Tarea2Constructora\obj\Debug\Tarea2Constructora.pdb
-K:\Tarea2Constructora\Tarea2Constructora\bin\Debug\Tarea2Constructora.exe.config
-K:\Tarea2Constructora\Tarea2Constructora\obj\Debug\Tarea2Constructora.exe
-K:\Tarea2Constructora\Tarea2Constructora\obj\Debug\Tarea2Constructora.pdb

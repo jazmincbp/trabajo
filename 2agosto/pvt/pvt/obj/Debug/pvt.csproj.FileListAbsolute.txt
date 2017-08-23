@@ -1,9 +1,0 @@
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\bin\Debug\pvt.exe.config
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\bin\Debug\pvt.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\bin\Debug\pvt.pdb
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.csprojResolveAssemblyReference.cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.Form1.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.Properties.Resources.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.csproj.GenerateResource.Cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\pvt\pvt\obj\Debug\pvt.pdb

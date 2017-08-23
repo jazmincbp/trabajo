@@ -1,8 +1,0 @@
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\bin\Debug\calcular edad.exe.config
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\bin\Debug\calcular edad.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\bin\Debug\calcular edad.pdb
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\obj\Debug\calcular_edad.Form1.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\obj\Debug\calcular_edad.Properties.Resources.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\obj\Debug\calcular edad.csproj.GenerateResource.Cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\obj\Debug\calcular edad.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\calcular edad\calcular edad\obj\Debug\calcular edad.pdb

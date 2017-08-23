@@ -1,9 +1,0 @@
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\bin\Debug\horas.exe.config
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\bin\Debug\horas.exe
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\bin\Debug\horas.pdb
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.csprojResolveAssemblyReference.cache
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.Form1.resources
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.Properties.Resources.resources
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.csproj.GenerateResource.Cache
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.exe
-C:\Users\Aprendiz\Desktop\condicionales\horas\horas\obj\Debug\horas.pdb

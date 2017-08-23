@@ -1,8 +1,0 @@
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\bin\Debug\Dolarucos.exe.config
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\bin\Debug\Dolarucos.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\bin\Debug\Dolarucos.pdb
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\obj\Debug\Dolarucos.Form1.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\obj\Debug\Dolarucos.Properties.Resources.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\obj\Debug\Dolarucos.csproj.GenerateResource.Cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\obj\Debug\Dolarucos.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\Dolarucos\Dolarucos\obj\Debug\Dolarucos.pdb

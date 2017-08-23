@@ -1,8 +1,0 @@
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\bin\Debug\Ruta.exe.config
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\bin\Debug\Ruta.exe
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\bin\Debug\Ruta.pdb
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\obj\Debug\Ruta.Form1.resources
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\obj\Debug\Ruta.Properties.Resources.resources
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\obj\Debug\Ruta.csproj.GenerateResource.Cache
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\obj\Debug\Ruta.exe
-c:\users\user\documents\visual studio 2012\Projects\Ruta\Ruta\obj\Debug\Ruta.pdb

@@ -1,8 +1,0 @@
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\bin\Debug\tienda.exe.config
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\bin\Debug\tienda.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\bin\Debug\tienda.pdb
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\obj\Debug\tienda.Form1.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\obj\Debug\tienda.Properties.Resources.resources
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\obj\Debug\tienda.csproj.GenerateResource.Cache
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\obj\Debug\tienda.exe
-c:\users\aprendiz\documents\visual studio 2015\Projects\tienda\tienda\obj\Debug\tienda.pdb

@@ -1,8 +1,0 @@
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\bin\Debug\12ingresar y promedio.exe.config
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\bin\Debug\12ingresar y promedio.exe
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\bin\Debug\12ingresar y promedio.pdb
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\obj\Debug\_12ingresar_y_promedio.Form1.resources
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\obj\Debug\_12ingresar_y_promedio.Properties.Resources.resources
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\obj\Debug\12ingresar y promedio.csproj.GenerateResource.Cache
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\obj\Debug\12ingresar y promedio.exe
-K:\ejercicios c#\3agosto\12ingresar y promedio\12ingresar y promedio\obj\Debug\12ingresar y promedio.pdb
