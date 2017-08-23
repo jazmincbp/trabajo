@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\bin\Debug\numpulsaciones.exe.config
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\bin\Debug\numpulsaciones.exe
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\bin\Debug\numpulsaciones.pdb
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.exe
+c:\users\user\documents\visual studio 2012\Projects\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.pdb
+K:\2agosto\numpulsaciones\numpulsaciones\bin\Debug\numpulsaciones.exe.config
+K:\2agosto\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.exe
+K:\2agosto\numpulsaciones\numpulsaciones\obj\Debug\numpulsaciones.pdb

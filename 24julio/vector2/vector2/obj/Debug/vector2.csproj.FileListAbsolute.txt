@@ -1,0 +1,12 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\bin\Debug\vector2.exe.config
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\bin\Debug\vector2.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\bin\Debug\vector2.pdb
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\obj\Debug\vector2.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\obj\Debug\vector2.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\vector2\vector2\obj\Debug\vector2.pdb
+K:\vector2\vector2\bin\Debug\vector2.exe.config
+K:\vector2\vector2\obj\Debug\vector2.exe
+K:\vector2\vector2\obj\Debug\vector2.pdb
+K:\ejercicios c#\24julio\vector2\vector2\bin\Debug\vector2.exe.config
+K:\ejercicios c#\24julio\vector2\vector2\obj\Debug\vector2.exe
+K:\ejercicios c#\24julio\vector2\vector2\obj\Debug\vector2.pdb

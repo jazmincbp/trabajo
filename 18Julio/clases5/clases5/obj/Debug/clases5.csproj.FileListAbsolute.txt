@@ -1,0 +1,6 @@
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\bin\Debug\clases5.exe.config
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\bin\Debug\clases5.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\bin\Debug\clases5.pdb
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\obj\Debug\clases5.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\obj\Debug\clases5.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases5\clases5\obj\Debug\clases5.pdb

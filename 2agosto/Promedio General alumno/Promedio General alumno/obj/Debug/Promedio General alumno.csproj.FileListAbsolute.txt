@@ -1,0 +1,18 @@
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.exe
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.pdb
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio_General_alumno.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio_General_alumno.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.exe
+C:\Users\Aprendiz\Desktop\condicionales\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.pdb
+F:\2agosto\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.exe.config
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.exe
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.pdb
+F:\2agosto\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.exe
+F:\2agosto\Promedio General alumno\Promedio General alumno\bin\Debug\Promedio General alumno.pdb
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.csprojResolveAssemblyReference.cache
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio_General_alumno.Form1.resources
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio_General_alumno.Properties.Resources.resources
+F:\2agosto\Promedio General alumno\Promedio General alumno\obj\Debug\Promedio General alumno.csproj.GenerateResource.Cache

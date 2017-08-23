@@ -1,0 +1,11 @@
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\bin\Debug\suma de  enteros por5.exe.config
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\bin\Debug\suma de  enteros por5.exe
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\bin\Debug\suma de  enteros por5.pdb
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\obj\Debug\suma_de__enteros_por5.Form1.resources
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\obj\Debug\suma_de__enteros_por5.Properties.Resources.resources
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\obj\Debug\suma de  enteros por5.csproj.GenerateResource.Cache
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\obj\Debug\suma de  enteros por5.exe
+K:\3agosto\suma de  enteros por5\suma de  enteros por5\obj\Debug\suma de  enteros por5.pdb
+G:\ejercicios c#\3agosto\5suma de  enteros por5\suma de  enteros por5\bin\Debug\suma de  enteros por5.exe.config
+G:\ejercicios c#\3agosto\5suma de  enteros por5\suma de  enteros por5\obj\Debug\suma de  enteros por5.exe
+G:\ejercicios c#\3agosto\5suma de  enteros por5\suma de  enteros por5\obj\Debug\suma de  enteros por5.pdb

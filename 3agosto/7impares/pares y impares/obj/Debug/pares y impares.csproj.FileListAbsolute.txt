@@ -1,0 +1,15 @@
+K:\3agosto\pares y impares\pares y impares\bin\Debug\pares y impares.exe.config
+K:\3agosto\pares y impares\pares y impares\bin\Debug\pares y impares.exe
+K:\3agosto\pares y impares\pares y impares\bin\Debug\pares y impares.pdb
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares_y_impares.Form1.resources
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares_y_impares.Properties.Resources.resources
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.csproj.GenerateResource.Cache
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.exe
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.pdb
+K:\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.csprojResolveAssemblyReference.cache
+K:\ejercicios c#\3agosto\pares y impares\pares y impares\bin\Debug\pares y impares.exe.config
+K:\ejercicios c#\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.exe
+K:\ejercicios c#\3agosto\pares y impares\pares y impares\obj\Debug\pares y impares.pdb
+G:\ejercicios c#\3agosto\7impares\pares y impares\bin\Debug\pares y impares.exe.config
+G:\ejercicios c#\3agosto\7impares\pares y impares\obj\Debug\pares y impares.exe
+G:\ejercicios c#\3agosto\7impares\pares y impares\obj\Debug\pares y impares.pdb

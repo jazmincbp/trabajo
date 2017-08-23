@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\bin\Debug\clases13.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\bin\Debug\clases13.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\bin\Debug\clases13.pdb
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\obj\Debug\clases13.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\obj\Debug\clases13.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases13\clases13\obj\Debug\clases13.pdb
+K:\projects\clases13\clases13\bin\Debug\clases13.exe.config
+K:\projects\clases13\clases13\obj\Debug\clases13.exe
+K:\projects\clases13\clases13\obj\Debug\clases13.pdb

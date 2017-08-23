@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\bin\Debug\clases9.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\bin\Debug\clases9.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\bin\Debug\clases9.pdb
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\obj\Debug\clases9.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\obj\Debug\clases9.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases9\clases9\obj\Debug\clases9.pdb
+K:\Nueva carpeta\viernes21\clases9\clases9\bin\Debug\clases9.exe.config
+K:\Nueva carpeta\viernes21\clases9\clases9\obj\Debug\clases9.exe
+K:\Nueva carpeta\viernes21\clases9\clases9\obj\Debug\clases9.pdb

@@ -1,0 +1,2 @@
+K:\3agosto\empresa automotriz\empresa automotriz\bin\Debug\empresa automotriz.exe.config
+K:\ejercicios c#\3agosto\8empresa automotriz\empresa automotriz\bin\Debug\empresa automotriz.exe.config

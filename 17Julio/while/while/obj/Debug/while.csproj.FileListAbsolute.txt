@@ -1,0 +1,8 @@
+c:\users\temp\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.exe
+c:\users\temp\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.pdb
+c:\users\temp\documents\visual studio 2012\Projects\while\while\obj\Debug\@while.exe
+c:\users\temp\documents\visual studio 2012\Projects\while\while\obj\Debug\@while.pdb
+K:\Nueva carpeta\Projects\while\while\bin\Debug\@while.exe.config
+K:\Nueva carpeta\Projects\while\while\obj\Debug\@while.exe
+K:\Nueva carpeta\Projects\while\while\obj\Debug\@while.pdb

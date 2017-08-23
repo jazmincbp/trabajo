@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\bin\Debug\Hospital presAnual.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\bin\Debug\Hospital presAnual.exe
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\bin\Debug\Hospital presAnual.pdb
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital_presAnual.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital_presAnual.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital presAnual.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital presAnual.exe
+c:\users\user\documents\visual studio 2012\Projects\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital presAnual.pdb
+G:\ejercicios c#\2agosto\Hospital presAnual\Hospital presAnual\bin\Debug\Hospital presAnual.exe.config
+G:\ejercicios c#\2agosto\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital presAnual.exe
+G:\ejercicios c#\2agosto\Hospital presAnual\Hospital presAnual\obj\Debug\Hospital presAnual.pdb

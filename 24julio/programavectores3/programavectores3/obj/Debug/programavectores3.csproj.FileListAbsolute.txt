@@ -1,0 +1,19 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\bin\Debug\programavectores3.pdb
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores3\programavectores3\obj\Debug\programavectores3.pdb
+F:\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+F:\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+F:\programavectores3\programavectores3\obj\Debug\programavectores3.pdb
+F:\programavectores3\programavectores3\obj\Debug\programavectores3.csprojResolveAssemblyReference.cache
+K:\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+K:\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+K:\programavectores3\programavectores3\obj\Debug\programavectores3.pdb
+K:\vector2\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+K:\vector2\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+K:\vector2\programavectores3\programavectores3\obj\Debug\programavectores3.pdb
+G:\ejercicios c#\24julio\programavectores3\programavectores3\bin\Debug\programavectores3.exe.config
+G:\ejercicios c#\24julio\programavectores3\programavectores3\obj\Debug\programavectores3.exe
+G:\ejercicios c#\24julio\programavectores3\programavectores3\obj\Debug\programavectores3.pdb

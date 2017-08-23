@@ -1,0 +1,18 @@
+K:\3agosto\ejer3\ejer3\bin\Debug\ejer3.exe.config
+K:\3agosto\ejer3\ejer3\bin\Debug\ejer3.exe
+K:\3agosto\ejer3\ejer3\bin\Debug\ejer3.pdb
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.csprojResolveAssemblyReference.cache
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.Form1.resources
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.Properties.Resources.resources
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.csproj.GenerateResource.Cache
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.exe
+K:\3agosto\ejer3\ejer3\obj\Debug\ejer3.pdb
+K:\ejercicios c#\3agosto\ejer3\ejer3\bin\Debug\ejer3.exe.config
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.exe
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.pdb
+K:\ejercicios c#\3agosto\ejer3\ejer3\bin\Debug\ejer3.exe
+K:\ejercicios c#\3agosto\ejer3\ejer3\bin\Debug\ejer3.pdb
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.csprojResolveAssemblyReference.cache
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.Form1.resources
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.Properties.Resources.resources
+K:\ejercicios c#\3agosto\ejer3\ejer3\obj\Debug\ejer3.csproj.GenerateResource.Cache

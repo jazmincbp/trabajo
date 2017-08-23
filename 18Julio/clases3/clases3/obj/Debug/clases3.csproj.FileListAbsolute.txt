@@ -1,0 +1,9 @@
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\bin\Debug\clases3.exe.config
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\bin\Debug\clases3.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\bin\Debug\clases3.pdb
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\obj\Debug\clases3.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\obj\Debug\clases3.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\clases3\clases3\obj\Debug\clases3.pdb
+K:\1\Projects\clases3\clases3\bin\Debug\clases3.exe.config
+K:\1\Projects\clases3\clases3\obj\Debug\clases3.exe
+K:\1\Projects\clases3\clases3\obj\Debug\clases3.pdb

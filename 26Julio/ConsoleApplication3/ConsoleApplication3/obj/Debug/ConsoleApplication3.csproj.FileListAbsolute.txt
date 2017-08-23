@@ -1,0 +1,12 @@
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+K:\26\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+K:\26\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+K:\26\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+K:\ejercicios c#\26Julio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+K:\ejercicios c#\26Julio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+K:\ejercicios c#\26Julio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

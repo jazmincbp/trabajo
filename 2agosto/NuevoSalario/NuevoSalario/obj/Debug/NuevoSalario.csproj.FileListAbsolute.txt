@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\bin\Debug\NuevoSalario.exe.config
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\bin\Debug\NuevoSalario.exe
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\bin\Debug\NuevoSalario.pdb
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.exe
+c:\users\user\documents\visual studio 2012\Projects\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.pdb
+K:\2agosto\NuevoSalario\NuevoSalario\bin\Debug\NuevoSalario.exe.config
+K:\2agosto\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.exe
+K:\2agosto\NuevoSalario\NuevoSalario\obj\Debug\NuevoSalario.pdb

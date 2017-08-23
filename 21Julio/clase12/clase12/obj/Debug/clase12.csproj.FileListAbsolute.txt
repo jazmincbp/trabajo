@@ -1,0 +1,11 @@
+C:\Users\Aprendiz\Desktop\condicionales\clase12\clase12\bin\Debug\clase12.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\clase12\clase12\bin\Debug\clase12.exe
+C:\Users\Aprendiz\Desktop\condicionales\clase12\clase12\bin\Debug\clase12.pdb
+C:\Users\Aprendiz\Desktop\condicionales\clase12\clase12\obj\Debug\clase12.exe
+C:\Users\Aprendiz\Desktop\condicionales\clase12\clase12\obj\Debug\clase12.pdb
+F:\Nueva carpeta\viernes21\clase12\clase12\bin\Debug\clase12.exe.config
+F:\Nueva carpeta\viernes21\clase12\clase12\obj\Debug\clase12.exe
+F:\Nueva carpeta\viernes21\clase12\clase12\obj\Debug\clase12.pdb
+K:\Nueva carpeta\viernes21\clase12\clase12\bin\Debug\clase12.exe.config
+K:\Nueva carpeta\viernes21\clase12\clase12\obj\Debug\clase12.exe
+K:\Nueva carpeta\viernes21\clase12\clase12\obj\Debug\clase12.pdb

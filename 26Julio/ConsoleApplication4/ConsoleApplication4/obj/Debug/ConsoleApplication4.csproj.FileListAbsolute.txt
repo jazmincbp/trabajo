@@ -1,0 +1,12 @@
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+K:\26\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+K:\26\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+K:\26\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+K:\ejercicios c#\26Julio\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+K:\ejercicios c#\26Julio\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+K:\ejercicios c#\26Julio\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

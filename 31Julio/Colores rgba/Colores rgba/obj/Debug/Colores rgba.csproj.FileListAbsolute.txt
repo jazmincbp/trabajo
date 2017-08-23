@@ -1,0 +1,12 @@
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\bin\Debug\Colores rgba.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\bin\Debug\Colores rgba.exe
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\bin\Debug\Colores rgba.pdb
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores rgba.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores_rgba.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores_rgba.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores rgba.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores rgba.exe
+C:\Users\Aprendiz\Desktop\condicionales\Colores rgba\Colores rgba\obj\Debug\Colores rgba.pdb
+K:\1agosto\Colores rgba\Colores rgba\bin\Debug\Colores rgba.exe.config
+K:\1agosto\Colores rgba\Colores rgba\obj\Debug\Colores rgba.exe
+K:\1agosto\Colores rgba\Colores rgba\obj\Debug\Colores rgba.pdb

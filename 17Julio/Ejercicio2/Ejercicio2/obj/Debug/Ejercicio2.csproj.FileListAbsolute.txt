@@ -1,0 +1,2 @@
+c:\users\temp\documents\visual studio 2012\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+K:\Nueva carpeta\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config

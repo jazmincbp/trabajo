@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\bin\Debug\nombreP.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\bin\Debug\nombreP.exe
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\bin\Debug\nombreP.pdb
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\obj\Debug\nombreP.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\obj\Debug\nombreP.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\obj\Debug\nombreP.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\obj\Debug\nombreP.exe
+C:\Users\Aprendiz\Desktop\condicionales\nombreP\nombreP\obj\Debug\nombreP.pdb

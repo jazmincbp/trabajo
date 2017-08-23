@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\bin\Debug\mAYOR MENOR O IGUAL.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR MENOR O IGUAL.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR_MENOR_O_IGUAL.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR_MENOR_O_IGUAL.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR MENOR O IGUAL.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\bin\Debug\mAYOR MENOR O IGUAL.exe
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\bin\Debug\mAYOR MENOR O IGUAL.pdb
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR MENOR O IGUAL.exe
+C:\Users\Aprendiz\Desktop\condicionales\mAYOR MENOR O IGUAL\mAYOR MENOR O IGUAL\obj\Debug\mAYOR MENOR O IGUAL.pdb

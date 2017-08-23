@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\bin\Debug\Ganancia del producto.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\bin\Debug\Ganancia del producto.exe
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\bin\Debug\Ganancia del producto.pdb
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia_del_producto.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia_del_producto.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.exe
+c:\users\user\documents\visual studio 2012\Projects\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.pdb
+F:\2agosto\Ganancia del producto\Ganancia del producto\bin\Debug\Ganancia del producto.exe.config
+F:\2agosto\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.exe
+F:\2agosto\Ganancia del producto\Ganancia del producto\obj\Debug\Ganancia del producto.pdb

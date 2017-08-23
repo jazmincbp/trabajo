@@ -1,0 +1,12 @@
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\bin\Debug\dowhile4.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\bin\Debug\dowhile4.exe
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\bin\Debug\dowhile4.pdb
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\obj\Debug\dowhile4.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\obj\Debug\dowhile4.exe
+c:\users\temp\documents\visual studio 2012\Projects\dowhile4\dowhile4\obj\Debug\dowhile4.pdb
+K:\Nueva carpeta\Projects\dowhile4\dowhile4\bin\Debug\dowhile4.exe.config
+K:\Nueva carpeta\Projects\dowhile4\dowhile4\obj\Debug\dowhile4.exe
+K:\Nueva carpeta\Projects\dowhile4\dowhile4\obj\Debug\dowhile4.pdb
+K:\ejercicios c#\17Julio\dowhile4\dowhile4\bin\Debug\dowhile4.exe.config
+K:\ejercicios c#\17Julio\dowhile4\dowhile4\obj\Debug\dowhile4.exe
+K:\ejercicios c#\17Julio\dowhile4\dowhile4\obj\Debug\dowhile4.pdb

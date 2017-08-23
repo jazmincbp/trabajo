@@ -1,0 +1,2 @@
+C:\Users\Aprendiz\Desktop\condicionales\suma de heterogeneos\suma de heterogeneos\bin\Debug\suma de heterogeneos.exe.config
+K:\ejercicios c#\31Julio\suma de heterogeneos\suma de heterogeneos\bin\Debug\suma de heterogeneos.exe.config

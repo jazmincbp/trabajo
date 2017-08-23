@@ -1,0 +1,12 @@
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\bin\Debug\suma de fraccionarios.exe.config
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\bin\Debug\suma de fraccionarios.exe
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\bin\Debug\suma de fraccionarios.pdb
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.csprojResolveAssemblyReference.cache
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma_de_fraccionarios.Form1.resources
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma_de_fraccionarios.Properties.Resources.resources
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.csproj.GenerateResource.Cache
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.exe
+K:\ejercicios c#\3agosto\suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.pdb
+K:\ejercicios c#\3agosto\10suma de fraccionarios\suma de fraccionarios\bin\Debug\suma de fraccionarios.exe.config
+K:\ejercicios c#\3agosto\10suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.exe
+K:\ejercicios c#\3agosto\10suma de fraccionarios\suma de fraccionarios\obj\Debug\suma de fraccionarios.pdb

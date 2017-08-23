@@ -1,0 +1,6 @@
+En una escuela la colegiatura de los alumnos se determina segun el numero de materias que cursan
+El costo de todas las materias es el mismo se ha establecido un programa,para estimular alos alumnos el cual consiste en los iguiente
+Si el promedio obtenido por un alumno en el ultimo periodo es mayor igual 9, se le hara ujn descuento del 30% sobre la coleguiatura
+y no se le cobrara iva;
+Si el promedio es menor que 9 debera pagar la coleguiatura completa, la cual incluye el 10% del iva.
+obtener cuanto debe de pagar un alumno.

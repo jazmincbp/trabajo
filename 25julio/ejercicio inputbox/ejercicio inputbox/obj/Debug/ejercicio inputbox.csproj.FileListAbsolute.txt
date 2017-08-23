@@ -1,0 +1,21 @@
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.exe
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.pdb
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio_inputbox.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio_inputbox.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.exe
+C:\Users\Aprendiz\Desktop\condicionales\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.pdb
+F:\25\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.exe.config
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.exe
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.pdb
+F:\25\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.exe
+F:\25\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.pdb
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.csprojResolveAssemblyReference.cache
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio_inputbox.Form1.resources
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio_inputbox.Properties.Resources.resources
+F:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.csproj.GenerateResource.Cache
+K:\25\ejercicio inputbox\ejercicio inputbox\bin\Debug\ejercicio inputbox.exe.config
+K:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.exe
+K:\25\ejercicio inputbox\ejercicio inputbox\obj\Debug\ejercicio inputbox.pdb

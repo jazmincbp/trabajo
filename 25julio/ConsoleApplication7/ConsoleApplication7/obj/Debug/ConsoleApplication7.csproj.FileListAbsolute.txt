@@ -1,0 +1,12 @@
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Aprendiz\Desktop\condicionales\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+F:\25\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+F:\25\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+F:\25\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+K:\25\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+K:\25\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+K:\25\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

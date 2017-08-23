@@ -1,0 +1,8 @@
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\switch2\switch2\bin\Debug\switch2.exe.config
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\switch2\switch2\bin\Debug\switch2.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\switch2\switch2\bin\Debug\switch2.pdb
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\switch2\switch2\obj\Debug\switch2.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\switch2\switch2\obj\Debug\switch2.pdb
+K:\1\Projects\switch2\switch2\bin\Debug\switch2.exe.config
+K:\1\Projects\switch2\switch2\obj\Debug\switch2.exe
+K:\1\Projects\switch2\switch2\obj\Debug\switch2.pdb

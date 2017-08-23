@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\bin\Debug\resolucion.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.Form1.resources
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\bin\Debug\resolucion.exe
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\bin\Debug\resolucion.pdb
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.exe
+C:\Users\Aprendiz\Desktop\condicionales\resolucion\resolucion\obj\Debug\resolucion.pdb

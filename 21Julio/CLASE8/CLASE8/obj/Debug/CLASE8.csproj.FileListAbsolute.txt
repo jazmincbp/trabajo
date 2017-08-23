@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\bin\Debug\CLASE8.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\bin\Debug\CLASE8.exe
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\bin\Debug\CLASE8.pdb
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\obj\Debug\CLASE8.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\obj\Debug\CLASE8.exe
+C:\Users\Aprendiz\Desktop\condicionales\CLASE8\CLASE8\obj\Debug\CLASE8.pdb
+K:\Nueva carpeta\viernes21\CLASE8\CLASE8\bin\Debug\CLASE8.exe.config
+K:\Nueva carpeta\viernes21\CLASE8\CLASE8\obj\Debug\CLASE8.exe
+K:\Nueva carpeta\viernes21\CLASE8\CLASE8\obj\Debug\CLASE8.pdb

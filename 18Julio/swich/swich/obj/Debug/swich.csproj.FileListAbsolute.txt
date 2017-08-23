@@ -1,0 +1,9 @@
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\bin\Debug\swich.exe.config
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\obj\Debug\swich.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\bin\Debug\swich.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\bin\Debug\swich.pdb
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\obj\Debug\swich.exe
+c:\users\aprendiz.soadfpcid7f328\documents\visual studio 2012\Projects\swich\swich\obj\Debug\swich.pdb
+K:\1\Projects\swich\swich\bin\Debug\swich.exe.config
+K:\1\Projects\swich\swich\obj\Debug\swich.exe
+K:\1\Projects\swich\swich\obj\Debug\swich.pdb

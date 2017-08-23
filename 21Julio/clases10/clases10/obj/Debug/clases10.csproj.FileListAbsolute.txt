@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\bin\Debug\clases10.exe.config
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\bin\Debug\clases10.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\bin\Debug\clases10.pdb
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\obj\Debug\clases10.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\obj\Debug\clases10.exe
+C:\Users\Aprendiz\Desktop\condicionales\clases10\clases10\obj\Debug\clases10.pdb
+K:\Nueva carpeta\viernes21\clases10\clases10\bin\Debug\clases10.exe.config
+K:\Nueva carpeta\viernes21\clases10\clases10\obj\Debug\clases10.exe
+K:\Nueva carpeta\viernes21\clases10\clases10\obj\Debug\clases10.pdb
